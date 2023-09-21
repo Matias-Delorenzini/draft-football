@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team builder</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div id="container">
+        <div id="lista_jugadores">
+            <ul id="jugadores_lista">
+                
+            </ul>
+        </div>
+
+        <div id="alineacion">
+            <div id="bench"></div>
+            <div id="field">
+                <div id="atq_line"></div>
+                <div id="mid_line"></div>
+                <div id="def_line"></div>
+                <div id="por_line"></div>
+            </div>
+        </div>
+
+        <div id="send_to">
+            <form id="formulario-sendto">
+                <div>
+                <label for="array-select" id="array-select-label">Enviar jugador a:</label>
+                <br>
+                <select id="array-select" name="array-select">
+                    <option value="s_bench">Banca de suplentes</option>
+                    <option value="s_atq_line">Línea de ataque</option>
+                    <option value="s_mid_line">Línea de mediocampo</option>
+                    <option value="s_def_line">Línea de defensa</option>
+                    <option value="s_por_line">Portería</option>
+                </select>
+                </div>
+                <button type="submit" id="send">Enviar</button>
+            </form>
+        </div>
+
+        <div id="submit_feedback">
+            <form id="form_confirmar">
+                <label for="submit" id="label_feedback" class=""></label> 
+                <br>
+                <button type="submit" id="send_equipo">Confirmar equipo</button>
+            </form>
+        </div>
+        
+        <div id="media_feedback">
+            <p class="media_datos">Media total: <span id="m_total" class="span_media">-</span></p>
+            <p class="media_datos">Media Defensa: <span id="m_defensa" class="span_media">-</span></p>
+            <p class="media_datos">Media Ataque: <span id="m_ataque" class="span_media">-</span></p>
+            <p class="media_datos">Media banca: <span id="m_banca" class="span_media">-</span></p>
+            <p></p>
+        </div>
+    </div>
+    <button id="boton_brillo">💡</button>
+
+    <script src="/js/main.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</body>
+</html>

@@ -1,0 +1,602 @@
+[
+    {
+        "nombre": "Lev Yashin",
+        "imagen": "/img/iconos_jugadores/00.jpg",
+        "posicion": "POR",
+        "media": 95
+    },
+    {
+        "nombre": "Manuel Neuer",
+        "imagen": "/img/iconos_jugadores/01.jpg",
+        "posicion": "POR",
+        "media": 92
+    },
+    {
+        "nombre": "Jan Oblak",
+        "imagen": "/img/iconos_jugadores/02.jpg",
+        "posicion": "POR",
+        "media": 91
+    },
+    {
+        "nombre": "Alisson Becker",
+        "imagen": "/img/iconos_jugadores/03.jpg",
+        "posicion": "POR",
+        "media": 91
+    },
+    {
+        "nombre": "Marc André ter Stegen",
+        "imagen": "/img/iconos_jugadores/04.jpg",
+        "posicion": "POR",
+        "media": 89
+    },
+    {
+        "nombre": "Thibaut Courtois",
+        "imagen": "/img/iconos_jugadores/05.jpg",
+        "posicion": "POR",
+        "media": 88
+    },
+    {
+        "nombre": "Ederson",
+        "imagen": "/img/iconos_jugadores/06.jpg",
+        "posicion": "POR",
+        "media": 88
+    },
+    {
+        "nombre": "Keylor Navas",
+        "imagen": "/img/iconos_jugadores/07.jpg",
+        "posicion": "POR",
+        "media": 87
+    },
+    {
+        "nombre": "Hugo Lloris",
+        "imagen": "/img/iconos_jugadores/08.jpg",
+        "posicion": "POR",
+        "media": 87
+    },
+    {
+        "nombre": "Peter Schmeichel",
+        "imagen": "/img/iconos_jugadores/09.jpg",
+        "posicion": "POR",
+        "media": 89
+    },
+    {
+        "nombre": "David de Gea",
+        "imagen": "/img/iconos_jugadores/10.jpg",
+        "posicion": "POR",
+        "media": 87
+    },
+    {
+        "nombre": "Gianluigi Buffon",
+        "imagen": "/img/iconos_jugadores/11.jpg",
+        "posicion": "POR",
+        "media": 88
+    },
+    {
+        "nombre": "Samir Handanović",
+        "imagen": "/img/iconos_jugadores/12.jpg",
+        "posicion": "POR",
+        "media": 86
+    },
+    {
+        "nombre": "Wojciech Szczęsny",
+        "imagen": "/img/iconos_jugadores/13.jpg",
+        "posicion": "POR",
+        "media": 85
+    },
+    {
+        "nombre": "André Onana",
+        "imagen": "/img/iconos_jugadores/14.jpg",
+        "posicion": "POR",
+        "media": 85
+    },
+    {
+        "nombre": "Rui Patrício",
+        "imagen": "/img/iconos_jugadores/15.jpg",
+        "posicion": "POR",
+        "media": 86
+    },
+    {
+        "nombre": "Bernd Leno",
+        "imagen": "/img/iconos_jugadores/16.jpg",
+        "posicion": "POR",
+        "media": 84
+    },
+    {
+        "nombre": "Yann Sommer",
+        "imagen": "/img/iconos_jugadores/17.jpg",
+        "posicion": "POR",
+        "media": 85
+    },
+    {
+        "nombre": "Ralf Fährmann",
+        "imagen": "/img/iconos_jugadores/18.jpg",
+        "posicion": "POR",
+        "media": 82
+    },
+    {
+        "nombre": "Roman Bürki",
+        "imagen": "/img/iconos_jugadores/19.jpg",
+        "posicion": "POR",
+        "media": 83
+    },
+    {
+        "nombre": "Kasper Schmeichel",
+        "imagen": "/img/iconos_jugadores/20.jpg",
+        "posicion": "POR",
+        "media": 85
+    },
+    {
+        "nombre": "Steve Mandanda",
+        "imagen": "/img/iconos_jugadores/21.jpg",
+        "posicion": "POR",
+        "media": 83
+    },
+    {
+        "nombre": "Emiliano Martínez",
+        "imagen": "/img/iconos_jugadores/22.jpg",
+        "posicion": "POR",
+        "media": 94
+    },
+    {
+        "nombre": "Jordan Pickford",
+        "imagen": "/img/iconos_jugadores/23.jpg",
+        "posicion": "POR",
+        "media": 84
+    },
+    {
+        "nombre": "Gianluigi Donnarumma",
+        "imagen": "/img/iconos_jugadores/24.jpg",
+        "posicion": "POR",
+        "media": 88
+    },
+    {
+        "nombre": "Virgil van Dijk",
+        "imagen": "/img/iconos_jugadores/25.jpg",
+        "posicion": "DEF",
+        "media": 92
+    },
+    {
+        "nombre": "Sergio Ramos",
+        "imagen": "/img/iconos_jugadores/26.jpg",
+        "posicion": "DEF",
+        "media": 90
+    },
+    {
+        "nombre": "Raphael Varane",
+        "imagen": "/img/iconos_jugadores/27.jpg",
+        "posicion": "DEF",
+        "media": 89
+    },
+    {
+        "nombre": "Aymeric Laporte",
+        "imagen": "/img/iconos_jugadores/28.jpg",
+        "posicion": "DEF",
+        "media": 88
+    },
+    {
+        "nombre": "Kalidou Koulibaly",
+        "imagen": "/img/iconos_jugadores/29.jpg",
+        "posicion": "DEF",
+        "media": 88
+    },
+    {
+        "nombre": "Trent Alexander Arnold",
+        "imagen": "/img/iconos_jugadores/30.jpg",
+        "posicion": "DEF",
+        "media": 87
+    },
+    {
+        "nombre": "Andrew Robertson",
+        "imagen": "/img/iconos_jugadores/31.jpg",
+        "posicion": "DEF",
+        "media": 87
+    },
+    {
+        "nombre": "Kyle Walker",
+        "imagen": "/img/iconos_jugadores/32.jpg",
+        "posicion": "DEF",
+        "media": 86
+    },
+    {
+        "nombre": "Cristian Romero",
+        "imagen": "/img/iconos_jugadores/33.jpg",
+        "posicion": "DEF",
+        "media": 89
+    },
+    {
+        "nombre": "Jordi Alba",
+        "imagen": "/img/iconos_jugadores/34.jpg",
+        "posicion": "DEF",
+        "media": 87
+    },
+    {
+        "nombre": "Marcelo",
+        "imagen": "/img/iconos_jugadores/35.jpg",
+        "posicion": "DEF",
+        "media": 86
+    },
+    {
+        "nombre": "David Alaba",
+        "imagen": "/img/iconos_jugadores/36.jpg",
+        "posicion": "DEF",
+        "media": 88
+    },
+    {
+        "nombre": "Alex Sandro",
+        "imagen": "/img/iconos_jugadores/37.jpg",
+        "posicion": "DEF",
+        "media": 85
+    },
+    {
+        "nombre": "Matthijs de Ligt",
+        "imagen": "/img/iconos_jugadores/38.jpg",
+        "posicion": "DEF",
+        "media": 87
+    },
+    {
+        "nombre": "Harry Maguire",
+        "imagen": "/img/iconos_jugadores/39.jpg",
+        "posicion": "DEF",
+        "media": 85
+    },
+    {
+        "nombre": "Milan Škriniar",
+        "imagen": "/img/iconos_jugadores/40.jpg",
+        "posicion": "DEF",
+        "media": 86
+    },
+    {
+        "nombre": "Leonardo Bonucci",
+        "imagen": "/img/iconos_jugadores/41.jpg",
+        "posicion": "DEF",
+        "media": 87
+    },
+    {
+        "nombre": "Kalvin Phillips",
+        "imagen": "/img/iconos_jugadores/42.jpg",
+        "posicion": "DEF",
+        "media": 83
+    },
+    {
+        "nombre": "João Cancelo",
+        "imagen": "/img/iconos_jugadores/43.jpg",
+        "posicion": "DEF",
+        "media": 85
+    },
+    {
+        "nombre": "Alessandro Florenzi",
+        "imagen": "/img/iconos_jugadores/44.jpg",
+        "posicion": "DEF",
+        "media": 82
+    },
+    {
+        "nombre": "Šime Vrsaljko",
+        "imagen": "/img/iconos_jugadores/45.jpg",
+        "posicion": "DEF",
+        "media": 84
+    },
+    {
+        "nombre": "Nicolás Tagliafico",
+        "imagen": "/img/iconos_jugadores/46.jpg",
+        "posicion": "DEF",
+        "media": 82
+    },
+    {
+        "nombre": "Benjamin Pavard",
+        "imagen": "/img/iconos_jugadores/47.jpg",
+        "posicion": "DEF",
+        "media": 83
+    },
+    {
+        "nombre": "Kieran Trippier",
+        "imagen": "/img/iconos_jugadores/48.jpg",
+        "posicion": "DEF",
+        "media": 82
+    },
+    {
+        "nombre": "Lucas Hernández",
+        "imagen": "/img/iconos_jugadores/49.jpg",
+        "posicion": "DEF",
+        "media": 86
+    },
+    {
+        "nombre": "Kevin De Bruyne",
+        "imagen": "/img/iconos_jugadores/50.jpg",
+        "posicion": "MID",
+        "media": 92
+    },
+    {
+        "nombre": "Luka Modrić",
+        "imagen": "/img/iconos_jugadores/51.jpg",
+        "posicion": "MID",
+        "media": 90
+    },
+    {
+        "nombre": "N'Golo Kanté",
+        "imagen": "/img/iconos_jugadores/52.jpg",
+        "posicion": "MID",
+        "media": 89
+    },
+    {
+        "nombre": "Frenkie de Jong",
+        "imagen": "/img/iconos_jugadores/53.jpg",
+        "posicion": "MID",
+        "media": 88
+    },
+    {
+        "nombre": "Bruno Fernandes",
+        "imagen": "/img/iconos_jugadores/54.jpg",
+        "posicion": "MID",
+        "media": 88
+    },
+    {
+        "nombre": "Toni Kroos",
+        "imagen": "/img/iconos_jugadores/55.jpg",
+        "posicion": "MID",
+        "media": 89
+    },
+    {
+        "nombre": "Joshua Kimmich",
+        "imagen": "/img/iconos_jugadores/56.jpg",
+        "posicion": "MID",
+        "media": 90
+    },
+    {
+        "nombre": "Saul Niguez",
+        "imagen": "/img/iconos_jugadores/57.jpg",
+        "posicion": "MID",
+        "media": 87
+    },
+    {
+        "nombre": "Christian Eriksen",
+        "imagen": "/img/iconos_jugadores/58.jpg",
+        "posicion": "MID",
+        "media": 87
+    },
+    {
+        "nombre": "Paul Pogba",
+        "imagen": "/img/iconos_jugadores/59.jpg",
+        "posicion": "MID",
+        "media": 87
+    },
+    {
+        "nombre": "Casemiro",
+        "imagen": "/img/iconos_jugadores/60.jpg",
+        "posicion": "MID",
+        "media": 86
+    },
+    {
+        "nombre": "Marco Verratti",
+        "imagen": "/img/iconos_jugadores/61.jpg",
+        "posicion": "MID",
+        "media": 86
+    },
+    {
+        "nombre": "Sergio Busquets",
+        "imagen": "/img/iconos_jugadores/62.jpg",
+        "posicion": "MID",
+        "media": 88
+    },
+    {
+        "nombre": "Sergio Agüero",
+        "imagen": "/img/iconos_jugadores/63.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Raheem Sterling",
+        "imagen": "/img/iconos_jugadores/64.jpg",
+        "posicion": "MID",
+        "media": 87
+    },
+    {
+        "nombre": "Rodri",
+        "imagen": "/img/iconos_jugadores/65.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Georginio Wijnaldum",
+        "imagen": "/img/iconos_jugadores/66.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Kai Havertz",
+        "imagen": "/img/iconos_jugadores/67.jpg",
+        "posicion": "MID",
+        "media": 86
+    },
+    {
+        "nombre": "Thomas Müller",
+        "imagen": "/img/iconos_jugadores/68.jpg",
+        "posicion": "MID",
+        "media": 86
+    },
+    {
+        "nombre": "Miralem Pjanić",
+        "imagen": "/img/iconos_jugadores/69.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Houssem Aouar",
+        "imagen": "/img/iconos_jugadores/70.jpg",
+        "posicion": "MID",
+        "media": 84
+    },
+    {
+        "nombre": "Jorginho",
+        "imagen": "/img/iconos_jugadores/71.jpg",
+        "posicion": "MID",
+        "media": 86
+    },
+    {
+        "nombre": "Nicolò Barella",
+        "imagen": "/img/iconos_jugadores/72.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Fabián Ruiz",
+        "imagen": "/img/iconos_jugadores/73.jpg",
+        "posicion": "MID",
+        "media": 85
+    },
+    {
+        "nombre": "Mason Mount",
+        "imagen": "/img/iconos_jugadores/74.jpg",
+        "posicion": "MID",
+        "media": 84
+    },
+    {
+        "nombre": "Robert Lewandowski",
+        "imagen": "/img/iconos_jugadores/75.jpg",
+        "posicion": "ATQ",
+        "media": 94
+    },
+    {
+        "nombre": "Kylian Mbappé",
+        "imagen": "/img/iconos_jugadores/76.jpg",
+        "posicion": "ATQ",
+        "media": 93
+    },
+    {
+        "nombre": "Erling Haaland",
+        "imagen": "/img/iconos_jugadores/77.jpg",
+        "posicion": "ATQ",
+        "media": 92
+    },
+    {
+        "nombre": "Cristiano Ronaldo",
+        "imagen": "/img/iconos_jugadores/78.jpg",
+        "posicion": "ATQ",
+        "media": 93
+    },
+    {
+        "nombre": "Lionel Messi",
+        "imagen": "/img/iconos_jugadores/79.jpg",
+        "posicion": "ATQ",
+        "media": 94
+    },
+    {
+        "nombre": "Karim Benzema",
+        "imagen": "/img/iconos_jugadores/80.jpg",
+        "posicion": "ATQ",
+        "media": 90
+    },
+    {
+        "nombre": "Romelu Lukaku",
+        "imagen": "/img/iconos_jugadores/81.jpg",
+        "posicion": "ATQ",
+        "media": 89
+    },
+    {
+        "nombre": "Harry Kane",
+        "imagen": "/img/iconos_jugadores/82.jpg",
+        "posicion": "ATQ",
+        "media": 91
+    },
+    {
+        "nombre": "Sadio Mané",
+        "imagen": "/img/iconos_jugadores/83.jpg",
+        "posicion": "ATQ",
+        "media": 90
+    },
+    {
+        "nombre": "Mohamed Salah",
+        "imagen": "/img/iconos_jugadores/84.jpg",
+        "posicion": "ATQ",
+        "media": 91
+    },
+    {
+        "nombre": "Antoine Griezmann",
+        "imagen": "/img/iconos_jugadores/85.jpg",
+        "posicion": "ATQ",
+        "media": 89
+    },
+    {
+        "nombre": "Gareth Bale",
+        "imagen": "/img/iconos_jugadores/86.jpg",
+        "posicion": "ATQ",
+        "media": 88
+    },
+    {
+        "nombre": "P. E. Aubameyang",
+        "imagen": "/img/iconos_jugadores/87.jpg",
+        "posicion": "ATQ",
+        "media": 88
+    },
+    {
+        "nombre": "Roberto Firmino",
+        "imagen": "/img/iconos_jugadores/88.jpg",
+        "posicion": "ATQ",
+        "media": 87
+    },
+    {
+        "nombre": "Dries Mertens",
+        "imagen": "/img/iconos_jugadores/89.jpg",
+        "posicion": "ATQ",
+        "media": 87
+    },
+    {
+        "nombre": "Raúl Jiménez",
+        "imagen": "/img/iconos_jugadores/90.jpg",
+        "posicion": "ATQ",
+        "media": 86
+    },
+    {
+        "nombre": "João Félix",
+        "imagen": "/img/iconos_jugadores/91.jpg",
+        "posicion": "ATQ",
+        "media": 87
+    },
+    {
+        "nombre": "Álvaro Morata",
+        "imagen": "/img/iconos_jugadores/92.jpg",
+        "posicion": "ATQ",
+        "media": 85
+    },
+    {
+        "nombre": "Timo Werner",
+        "imagen": "/img/iconos_jugadores/93.jpg",
+        "posicion": "ATQ",
+        "media": 86
+    },
+    {
+        "nombre": "Memphis Depay",
+        "imagen": "/img/iconos_jugadores/94.jpg",
+        "posicion": "ATQ",
+        "media": 87
+    },
+    {
+        "nombre": "Jamie Vardy",
+        "imagen": "/img/iconos_jugadores/95.jpg",
+        "posicion": "ATQ",
+        "media": 85
+    },
+    {
+        "nombre": "Mauro Icardi",
+        "imagen": "/img/iconos_jugadores/96.jpg",
+        "posicion": "ATQ",
+        "media": 86
+    },
+    {
+        "nombre": "Edin Džeko",
+        "imagen": "/img/iconos_jugadores/97.jpg",
+        "posicion": "ATQ",
+        "media": 85
+    },
+    {
+        "nombre": "Alexander Isak",
+        "imagen": "/img/iconos_jugadores/98.jpg",
+        "posicion": "ATQ",
+        "media": 84
+    },
+    {
+        "nombre": "André Silva",
+        "imagen": "/img/iconos_jugadores/99.jpg",
+        "posicion": "ATQ",
+        "media": 84
+    }
+]
